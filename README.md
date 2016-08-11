@@ -1,2 +1,2 @@
 # MyProfile
-A resume website about me providing insights into my work and academics.
+A resume website providing insights into my work and academics.
